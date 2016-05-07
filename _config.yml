@@ -1,0 +1,28 @@
+name: Cyanotype Memory
+favicon: null
+layout_spectrum: 0.23451509163714945
+typography_spectrum: 0.3422735636122525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19077232270501554
+  lightness: 0.5939917268697172
+  saturation: 0.49171767267398536
+  rhythmicContrast: 0.7754463041201234
+purpose: []
